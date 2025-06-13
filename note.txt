@@ -1,1 +1,1 @@
-C:\Users\abeba\AppData\Local\Programs\Python\Python37-32\python.exe manage.py startapp hello
+C:\Users\abeba\AppData\Local\Programs\Python\Python37-32\python.exe manage.py runserver
